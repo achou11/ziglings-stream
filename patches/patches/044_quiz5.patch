@@ -1,0 +1,4 @@
+21a22
+>     var elephantB = Elephant{ .letter = 'B' };
+27a29
+>     elephantB.tail = &elephantC;

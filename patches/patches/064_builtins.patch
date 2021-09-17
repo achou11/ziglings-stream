@@ -1,0 +1,4 @@
+72c72
+<     const tupni: u8 = @bitReverse(input);
+---
+>     const tupni: u8 = @bitReverse(u8, input);
